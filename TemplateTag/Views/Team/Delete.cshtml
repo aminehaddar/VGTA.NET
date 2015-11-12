@@ -1,0 +1,53 @@
+﻿@model VGTA.Data.Models.team
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+@using (Html.BeginForm("Delete", "Team", new { id = Model.id_team }))
+{
+    @Html.AntiForgeryToken()
+    @Html.DisplayFor(model => model.id_team)
+
+    <div class="form-actions no-color">
+        <button class="btn btn-default db">Click Here to delete Account</button>
+
+
+    </div>
+<div>
+    <h4>team</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.id_team)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_team)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.max_members)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.max_members)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+    </dl>
+
+   
+
+</div>
+}

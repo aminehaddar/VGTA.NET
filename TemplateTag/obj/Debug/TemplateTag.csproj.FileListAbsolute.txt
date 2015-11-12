@@ -1,0 +1,225 @@
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\csc.exe
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\vbc.exe
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.dll.config
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.pdb
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Antlr3.Runtime.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Newtonsoft.Json.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Owin.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Helpers.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Mvc.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Optimization.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Razor.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\WebGrease.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Helpers.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Mvc.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Optimization.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Razor.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Antlr3.Runtime.pdb
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Newtonsoft.Json.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.csprojResolveAssemblyReference.cache
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.pdb
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\csc.exe
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\vbc.exe
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.dll.config
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\TemplateTag.pdb
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Antlr3.Runtime.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Newtonsoft.Json.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Owin.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Helpers.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Mvc.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Optimization.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Razor.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\WebGrease.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Helpers.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Mvc.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Optimization.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.Razor.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Antlr3.Runtime.pdb
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Newtonsoft.Json.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.csprojResolveAssemblyReference.cache
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.dll
+C:\Users\9raya\Documents\Visual Studio 2015\Projects\TemplateTag\TemplateTag\obj\Debug\TemplateTag.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\obj\Debug\TemplateTag.csprojResolveAssemblyReference.cache
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\obj\Debug\TemplateTag.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\obj\Debug\TemplateTag.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\csc.exe
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\vbc.exe
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\TemplateTag.dll.config
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\TemplateTag.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\TemplateTag.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Antlr3.Runtime.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\EntityFramework.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\MySql.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\MySql.Data.Entity.EF6.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\MySql.Fabric.Plugin.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\MySql.Web.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Newtonsoft.Json.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Owin.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Helpers.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Mvc.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Optimization.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Razor.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Domain.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Service.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Service.Pattern.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\WebGrease.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\WebMatrix.WebData.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\WebMatrix.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Data.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Domain.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Service.Pattern.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\VGTA.Service.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Helpers.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Mvc.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Optimization.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.Razor.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\System.Web.WebPages.Razor.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Antlr3.Runtime.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Newtonsoft.Json.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\EntityFramework.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\EntityFramework.SqlServer.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\WebMatrix.WebData.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\WebMatrix.Data.xml
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\fr\WebMatrix.WebData.resources.dll
+C:\Users\HADDAR\Desktop\TemplateTag\TemplateTag\bin\fr\WebMatrix.Data.resources.dll

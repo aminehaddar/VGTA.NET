@@ -1,0 +1,200 @@
+﻿@model IEnumerable<VGTA.Data.Models.team>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<!DOCTYPE html>
+<!--
+  Name: Youplay - Game Template based on Bootstrap
+  Version: 1.2.0
+  Author: nK
+  Website: http://nkdev.info
+  Support: http://nk.ticksy.com
+  Purchase: http://themeforest.net/item/youplay-game-template-based-on-bootstrap/11306207?ref=_nK
+  License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
+  Copyright 2015.
+-->
+<html>
+
+<!-- Mirrored from html.nkdev.info/youplay/dark/blank.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Nov 2015 15:08:11 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>youplay</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Icon -->
+    <link rel="icon" type="image/png" href="assets/images/icon.png">
+    <!-- Google Fonts -->
+    <link href='../../../fonts.googleapis.com/css8f84.css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/bootstrap/css/bootstrap.min.css" />
+    <!-- FontAwesome -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/fontawesome/css/font-awesome.min.css" />
+    <!-- Owl Catousel -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/owl.carousel/owl.carousel.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/magnific-popup/magnific-popup.css" />
+    <!-- Revolution Slider -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/slider-revolution/examples%26source/rs-plugin/css/settings.css" />
+    <!-- Bootstrap Sweetalert -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/bootstrap-sweetalert/lib/sweet-alert.css" />
+    <!-- Social Likes -->
+    <link rel="stylesheet" type="text/css" href="../assets/plugins/social-likes/social-likes_flat.css" />
+    <!-- youplay -->
+    <link rel="stylesheet" type="text/css" href="../assets/youplay/css/youplay.min.css" />
+    <!-- Google Maps API -->
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <!--[if lt IE 9]>
+        <script src="../assets/plugins/html5shiv/html5shiv.min.js"></script>
+      <![endif]-->
+</head>
+<body>
+    <!-- Preloader -->
+    <div class="page-preloader preloader-wrapp">
+        <img src="assets/images/logo.png" alt="">
+        <div class="preloader"></div>
+    </div>
+    <!-- /Preloader -->
+  
+    <!-- Main Content -->
+    <section class="content-wrap">
+        <!-- Banner -->
+        <div class="youplay-banner banner-top small">
+            <div class="image" style="background-image: url(assets/images/banner-blog-bg.jpg)" data-top="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;">
+            </div>
+            <div class="info" data-top="opacity: 1; transform: translate3d(0px,0px,0px);" data-top-bottom="opacity: 0; transform: translate3d(0px,150px,0px);" data-anchor-target=".youplay-banner.banner-top">
+                <div>
+                    <div class="container">
+                        <h2> Manage Teams</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Banner -->
+
+        <div class="container youplay-content">
+            <h2 class="mt-0">Display teams</h2>
+            <p>
+                
+            </p>
+        </div>
+
+        <!-- 5edma -->
+
+       
+        <table class="table">
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.id_team)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.max_members)
+                </th>
+           
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.id_team)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.max_members)
+                    </td>
+              
+                    <td>
+                     
+                        <a href="@Url.Action("Edit", "Team", new {  id=item.id_team  })"><img src="~/Content/images/edit.png" style="width:50px;height:50px"></img></a>
+                        <a href="@Url.Action("Details", "Team", new { /* id=item.PrimaryKey */ })"><img src="~/Content/images/details.png" style="width:50px;height:50px"></img></a>
+                        <a href="@Url.Action("Delete","Team",  new {  id=item.id_team  })"><img src="~/Content/images/delete.png" style="width:50px;height:50px"></img></a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+        <!-- Footer -->
+        <footer>
+           
+           
+                <!-- Copyright -->
+                <div class="copyright">
+                    <div class="container">
+                        <strong>nK</strong> &copy; 2015. All rights reserved
+                    </div>
+                </div>
+                <!-- /Copyright -->
+            </div>
+        </footer>
+        <!-- /Footer -->
+    </section>
+    <!-- /Main Content -->
+    <!-- Search Block -->
+    <div class="search-block">
+        <a href="#!" class="search-toggle glyphicon glyphicon-remove"></a>
+        <form action="http://html.nkdev.info/youplay/dark/search.html">
+            <div class="youplay-input">
+                <input type="text" name="search" placeholder="Search...">
+            </div>
+        </form>
+    </div>
+    <!-- /Search Block -->
+    <!-- jQuery -->
+    <script type="text/javascript" src="../assets/plugins/jquery/jquery.min.js"></script>
+    <!-- CSS Shapes Polyfill -->
+    <script type="text/javascript" src="../assets/plugins/css-shapes-polyfill/shapes-polyfill.min.js"></script>
+    <!-- Hexagon Progress -->
+    <script type="text/javascript" src="../assets/plugins/jquery.hexagonprogress/jquery.hexagonprogress.min.js"></script>
+    <!-- Bootstrap -->
+    <script type="text/javascript" src="../assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Skrollr -->
+    <script type="text/javascript" src="../assets/plugins/skrollr/skrollr.min.js"></script>
+    <!-- Smooth Scroll -->
+    <script type="text/javascript" src="../assets/plugins/smoothscroll/smoothscroll.js"></script>
+    <!-- Owl Carousel -->
+    <script type="text/javascript" src="../assets/plugins/owl.carousel/owl.carousel.min.js"></script>
+    <!-- Countdown -->
+    <script type="text/javascript" src="../assets/plugins/jquery.coundown/jquery.countdown.min.js"></script>
+    <!-- Magnific Popup -->
+    <script type="text/javascript" src="../assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Revolution Slider -->
+    <script type="text/javascript" src="../assets/plugins/slider-revolution/examples%26source/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/slider-revolution/examples%26source/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- Isotope -->
+    <script type="text/javascript" src="../assets/plugins/isotope/isotope.pkgd.min.js"></script>
+    <!-- Bootstrap Validator -->
+    <script type="text/javascript" src="../assets/plugins/bootstrap-validator/dist/validator.min.js"></script>
+    <!-- Bootstrap Validator -->
+    <script type="text/javascript" src="../assets/plugins/bootstrap-sweetalert/lib/sweet-alert.min.js"></script>
+    <!-- Social Likes -->
+    <script type="text/javascript" src="../assets/plugins/social-likes/social-likes.min.js"></script>
+    <!-- youplay -->
+    <script type="text/javascript" src="../assets/youplay/js/youplay.min.js"></script>
+    <!-- init youplay -->
+    <script>
+    if(typeof youplay !== 'undefined') {
+        youplay.init({
+            smoothscroll: false,
+        });
+    }
+    </script>
+</body>
+
+<!-- Mirrored from html.nkdev.info/youplay/dark/blank.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Nov 2015 15:08:11 GMT -->
+</html>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<VGTA.Data.Models.team>
+
+@{
+    ViewBag.Title = "DetailTeamSponsoring";
+}
+
+<h2>DetailTeamSponsoring</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.max_members)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.max_members)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_team }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_team }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_team })
+        </td>
+    </tr>
+}
+
+</table>

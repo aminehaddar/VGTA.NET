@@ -1,0 +1,15 @@
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\obj\Debug\VGTA.Data.csprojResolveAssemblyReference.cache
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\VGTA.Data.dll.config
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\VGTA.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\VGTA.Data.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\EntityFramework.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\MySql.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\VGTA.Domain.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\VGTA.Domain.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\EntityFramework.xml
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\obj\Debug\VGTA.Data.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Data\obj\Debug\VGTA.Data.pdb

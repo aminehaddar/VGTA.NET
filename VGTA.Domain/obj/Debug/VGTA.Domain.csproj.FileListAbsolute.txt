@@ -1,0 +1,9 @@
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\VGTA.Domain.dll.config
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\VGTA.Domain.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\VGTA.Domain.pdb
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\EntityFramework.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\EntityFramework.xml
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\obj\Debug\VGTA.Domain.dll
+C:\Users\HADDAR\Desktop\TemplateTag\VGTA.Domain\obj\Debug\VGTA.Domain.pdb
